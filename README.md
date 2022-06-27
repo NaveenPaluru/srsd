@@ -1,3 +1,3 @@
 # srsd
 
-Will be updatsed soon.
+Will be updated soon.
